@@ -1,4 +1,7 @@
 task("default", [], function() {
+  console.log("default");
+});
+task("default", [], function() {
 	console.log("default");
 });
 
